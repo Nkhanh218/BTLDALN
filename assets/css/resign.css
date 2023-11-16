@@ -1,0 +1,41 @@
+.header-toolbar,.sticky-header,.btm-sec{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    
+
+}
+.col{
+width: 50%;
+}
+.panel{
+    border-radius: 15px !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top:15px !important;
+    }
+    
+    .panel:hover{
+        transform: scale(1.03);
+    }
+.panel-heading {
+    font-family: cnn_sans_display,helveticaneue,Helvetica,Arial,Utkal,sans-serif;
+    text-align: center ;
+    font-weight: bold;
+    font-size: 30px;
+    border-color: white !important;
+    background: unset !important; 
+}
+
+.panel-default{
+border-radius: 15px !important;
+}
+.form-control{
+    border-radius: 15px !important;
+    height: 50px !important;
+}
+.btn-primary{
+    background-color:#cc0000;
+    font-weight: 800;
+    color: aliceblue;
+    font-size: large;
+
+}
